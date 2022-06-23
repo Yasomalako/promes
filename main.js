@@ -13,6 +13,7 @@
 //     .catch((err) => { document.write(err) })
 
 //3
+
 function printPromes(num1,num2){
 return new Promise((resolve,reject)=>{
     
